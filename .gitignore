@@ -1,0 +1,13 @@
+*.png
+*.txt
+*.jpg
+*.PNG
+*.TXT
+*.JPG
+/*/*.png
+/*/*.PNG
+/*/*.jpg
+/*/*.JPG
+/*/*.txt
+/*/*.TXT
+/.*
