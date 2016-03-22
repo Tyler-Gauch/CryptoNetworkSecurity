@@ -1,0 +1,1 @@
+javac -d bin/ assignment1/*.java
